@@ -1,0 +1,8 @@
+frm_Principal = 52, 52, 688, 403, C, 156, 156, 766, 568, C
+frm_CadastroTransacoes = 97, 90, 927, 441, C, -75, 281, 561, 632, C
+Module1 = 156, 156, 792, 507, C
+mdl_Tratamentos = 0, 0, 636, 351, C
+frm_Relatorio = -339, 29, 487, 366, C, 26, 26, 660, 340, C
+frmLocalizar = 156, 156, 984, 493, C, 42, 100, 676, 437, C
+frmSplash = 0, 0, 632, 337, C, 156, 156, 788, 493, C
+Frm_Consulta = 0, 0, 717, 330, C, 139, 189, 856, 519, C

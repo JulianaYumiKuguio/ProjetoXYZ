@@ -1,0 +1,117 @@
+22/07/2025 18:33:52 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 3704 | Descrição: Operação não permitida quando o objeto está fechado. | Fonte: ADODB.Recordset | ÚltimaDLL: C:\WINDOWS\HELP\ADO270.CHM | Contexto: Linha do erro/Estado da aplicação
+22/07/2025 18:35:45 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 3704 | Descrição: Operação não permitida quando o objeto está fechado. | Fonte: ADODB.Recordset | ÚltimaDLL: C:\WINDOWS\HELP\ADO270.CHM | Contexto: Linha do erro/Estado da aplicação
+22/07/2025 18:37:53 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 11 | Descrição: Division by zero | Fonte: Project1 | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+22/07/2025 18:39:21 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 0 | Descrição:  | Fonte:  | ÚltimaDLL:  | Contexto: Linha do erro/Estado da aplicação
+22/07/2025 18:40:02 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 0 | Descrição:  | Fonte:  | ÚltimaDLL:  | Contexto: Linha do erro/Estado da aplicação
+23/07/2025 13:52:39 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 3704 | Descrição: Operação não permitida quando o objeto está fechado. | Fonte: ADODB.Recordset | ÚltimaDLL: C:\WINDOWS\HELP\ADO270.CHM | Contexto: Linha do erro/Estado da aplicação
+23/07/2025 13:53:28 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 3704 | Descrição: Operação não permitida quando o objeto está fechado. | Fonte: ADODB.Recordset | ÚltimaDLL: C:\WINDOWS\HELP\ADO270.CHM | Contexto: Linha do erro/Estado da aplicação
+23/07/2025 14:03:14 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 424 | Descrição: Object required | Fonte: Project1 | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+23/07/2025 14:51:03 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 6 | Descrição: Overflow | Fonte: Project1 | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+23/07/2025 14:52:11 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 6 | Descrição: Overflow | Fonte: Project1 | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+23/07/2025 15:55:01 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: -2147217887 | Descrição: Operação OLE DB de várias etapas gerou erros. Verifique cada valor de status OLE DB. Nada foi executado. | Fonte: Microsoft OLE DB Provider for SQL Server | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 11:59:07 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 424 | Descrição: Object required | Fonte: ProjetoXYZ | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:05:10 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 424 | Descrição: Object required | Fonte: ProjetoXYZ | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:07:06 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 424 | Descrição: Object required | Fonte: ProjetoXYZ | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:07:46 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '0 - Todos'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:13:12 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '1 - Aprovada'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:16:13 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '1 - Aprovada'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:16:19 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '1 - Aprovada'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:28:46 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 424 | Descrição: Object required | Fonte: ProjetoXYZ | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:32:18 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F002>. 
+' 'Ordenar por : 'Status'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:49:08 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Ordenar por : 'Status'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:50:33 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Ordenar por : 'Status'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:51:14 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Ordenar por : 'Status'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:51:58 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F002>. 
+' 'Ordenar por : 'Status'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:58:17 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '2 - Pendente'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:58:55 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '2 - Pendente'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:59:11 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '2 - Pendente'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 12:59:33 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '3 - Cancelada'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:00:30 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '0 - Todos'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:01:30 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '0 - Todos'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:01:52 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '0 - Todos'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:03:19 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '3 - Cancelada'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:03:46 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '1 - Aprovada'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:04:05 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <F001>. 
+' 'Filtro por Status: '0 - Todos'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:10:27 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <Status>. 
+' 'Filtro por Status: '0 - Todos'
+The remaining text does not appear to be part of the formula. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:34:35 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <Record_Selection>. 
+'{VW_ConsultaTransacoesPorCategoria.Data_Transacao}>= '01/07/2025' and {VW_ConsultaTransacoesPorCategoria.Data_Transacao}<= '31/07/2025' '
+A date is required here. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:35:34 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <Record_Selection>. 
+'{VW_ConsultaTransacoesPorCategoria.Data_Transacao}>= '01/07/2025' and {VW_ConsultaTransacoesPorCategoria.Data_Transacao}<= '31/07/2025' '
+A date is required here. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:39:31 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <Record_Selection>. 
+'{VW_ConsultaTransacoesPorCategoria.Data_Transacao}>= '24/07/2025' and {VW_ConsultaTransacoesPorCategoria.Data_Transacao}<= '31/07/2025' '
+A date is required here. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 13:40:12 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 20515 | Descrição: Error in File C:\temp\RelTransacoes.rpt:
+Error in formula  <Record_Selection>. 
+'{VW_ConsultaTransacoesPorCategoria.Data_Transacao}>= '24/07/2025' and {VW_ConsultaTransacoesPorCategoria.Data_Transacao}<= '31/07/2025' '
+A date is required here. | Fonte: CrystalReport | ÚltimaDLL: developr.hlp | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 16:11:04 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: -2147217900 | Descrição: Sintaxe incorreta próxima a '='. | Fonte: Microsoft OLE DB Provider for SQL Server | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 16:31:59 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 3705 | Descrição: Operação não permitida quando o objeto está aberto. | Fonte: ADODB.Recordset | ÚltimaDLL: C:\WINDOWS\HELP\ADO270.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 16:32:23 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 3705 | Descrição: Operação não permitida quando o objeto está aberto. | Fonte: ADODB.Recordset | ÚltimaDLL: C:\WINDOWS\HELP\ADO270.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 16:32:31 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 3705 | Descrição: Operação não permitida quando o objeto está aberto. | Fonte: ADODB.Recordset | ÚltimaDLL: C:\WINDOWS\HELP\ADO270.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 16:49:26 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: -2147217900 | Descrição: Sintaxe incorreta próxima a ','. | Fonte: Microsoft OLE DB Provider for SQL Server | ÚltimaDLL: C:\WINDOWS\Help\VBENLR98.CHM | Contexto: Linha do erro/Estado da aplicação
+24/07/2025 18:18:55 - Erro na rotina MinhaRotinaQuePodeGerarErro - Número: 380 | Descrição: Invalid property value | Fonte: MaskEdBox | ÚltimaDLL: MASKED98.CHM | Contexto: Linha do erro/Estado da aplicação
